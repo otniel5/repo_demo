@@ -30,4 +30,4 @@ while True:
         break
    print(f"your type {count} number multiple of 5")     
    
-print("new 1)
+print("new 1")
